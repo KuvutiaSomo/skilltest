@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/skilltest/static/css/main.76c0dd60.css",
-    "main.js": "/skilltest/static/js/main.8c9ea9f4.js",
+    "main.css": "/skilltest/static/css/main.52c6d3d3.css",
+    "main.js": "/skilltest/static/js/main.47f3ba47.js",
     "static/js/787.54b0f3b4.chunk.js": "/skilltest/static/js/787.54b0f3b4.chunk.js",
     "index.html": "/skilltest/index.html",
-    "main.76c0dd60.css.map": "/skilltest/static/css/main.76c0dd60.css.map",
-    "main.8c9ea9f4.js.map": "/skilltest/static/js/main.8c9ea9f4.js.map",
+    "main.52c6d3d3.css.map": "/skilltest/static/css/main.52c6d3d3.css.map",
+    "main.47f3ba47.js.map": "/skilltest/static/js/main.47f3ba47.js.map",
     "787.54b0f3b4.chunk.js.map": "/skilltest/static/js/787.54b0f3b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76c0dd60.css",
-    "static/js/main.8c9ea9f4.js"
+    "static/css/main.52c6d3d3.css",
+    "static/js/main.47f3ba47.js"
   ]
 }
